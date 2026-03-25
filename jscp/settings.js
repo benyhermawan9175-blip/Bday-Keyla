@@ -9,31 +9,31 @@ let settings = {
     matrixText: 'HAPPYBIRTHDAY',
     matrixColor1: '#ff69b4', // Màu pink mẫu
     matrixColor2: '#ff1493', // Màu pink mẫu
-    sequence: 'HAPPY|BIRTHDAY|TO|ANITA|❤',
+    sequence: 'HAPPY|BIRTHDAY|TO|Keyla|❤',
     sequenceColor: '#ff69b4', // Màu pink mẫu
     gift: './image/happy3.gif',
     enableBook: true,
     pages: [
         // --- Lembar 1 (data-page="0") ---
         { 
-            image: './image/theend.jpg', // Menggantikan bolsw2.png (Index 0)
+            image: './4f3f0804-b377-4c84-974f-5ab9a0cc6d09.jpg', // Menggantikan bolsw2.png (Index 0)
         },
         { 
-            image: './image/photos/b1.png', // Menggantikan lhvuck.png (Index 1)
+            image: './image/6a62e769-b043-47ea-aa57-76f7f8c8735b.jpg', // Menggantikan lhvuck.png (Index 1)
         },
 
         // --- Lembar 2 (data-page="1") ---
         { 
-            image: './image/photos/b2.png', // Menggantikan fjr3qh.png (Index 2)
+            image: './image/IMG-20260303-WA0008.jpg', // Menggantikan fjr3qh.png (Index 2)
             content: 'Happy Birthday Sayang 💗' 
         },
         { 
-            image: './image/photos/b3.png', // Menggantikan 8u5tf7.png (Index 3)
+            image: './image/IMG-20260310-WA0021.jpg', // Menggantikan 8u5tf7.png (Index 3)
         },
 
         // --- Lembar 3 (data-page="2") ---
         { 
-            image: './image/theend.jpg', // Menggantikan tbutvj.png (Index 4)
+            image: './ff87298f-83cb-4b18-ac13-dbd21d5ea0a3.jpg', // Menggantikan tbutvj.png (Index 4)
             content: 'As long as you’re smiling, I’m happy. Stay happy, my love.' 
         }
     ],
